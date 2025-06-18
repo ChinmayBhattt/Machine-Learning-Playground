@@ -1,0 +1,54 @@
+[{"stream_name":"stdout","time":9.846068423,"data":"/kaggle/input/netflix-shows/netflix_titles.csv\n"}
+,{"stream_name":"stdout","time":9.846193106,"data":"/kaggle/input/netflix-icon-new/f6974e017d3f6196c4cbe284ee3eaf4e.png\n"}
+,{"stream_name":"stdout","time":11.946895253,"data":"director null rate: 30.68%\n"}
+,{"stream_name":"stdout","time":11.946933332,"data":"cast null rate: 9.22%\n"}
+,{"stream_name":"stdout","time":11.94694045,"data":"country null rate: 6.51%\n"}
+,{"stream_name":"stdout","time":11.946946271,"data":"date_added null rate: 0.13%\n"}
+,{"stream_name":"stdout","time":11.946951816,"data":"rating null rate: 0.09%\n"}
+,{"stream_name":"stdout","time":12.421559117,"data":"\u003cclass 'pandas.core.frame.DataFrame'\u003e\n"}
+,{"stream_name":"stdout","time":12.421612699,"data":"Int64Index: 7770 entries, 0 to 7786\n"}
+,{"stream_name":"stdout","time":12.421621743,"data":"Data columns (total 12 columns):\n"}
+,{"stream_name":"stdout","time":12.421628766,"data":" #   Column        Non-Null Count  Dtype \n"}
+,{"stream_name":"stdout","time":12.421635675,"data":"---  ------        --------------  ----- \n"}
+,{"stream_name":"stdout","time":12.421641821,"data":" 0   show_id       7770 non-null   object\n"}
+,{"stream_name":"stdout","time":12.421647948,"data":" 1   type          7770 non-null   object\n"}
+,{"stream_name":"stdout","time":12.421654296,"data":" 2   title         7770 non-null   object\n"}
+,{"stream_name":"stdout","time":12.421660416,"data":" 3   director      7770 non-null   object\n"}
+,{"stream_name":"stdout","time":12.421666826,"data":" 4   cast          7770 non-null   object\n"}
+,{"stream_name":"stdout","time":12.421673828,"data":" 5   country       7770 non-null   object\n"}
+,{"stream_name":"stdout","time":12.421679838,"data":" 6   date_added    7770 non-null   object\n"}
+,{"stream_name":"stdout","time":12.421685864,"data":" 7   release_year  7770 non-null   int64 \n"}
+,{"stream_name":"stdout","time":12.421691801,"data":" 8   rating        7770 non-null   object\n"}
+,{"stream_name":"stdout","time":12.421697912,"data":" 9   duration      7770 non-null   object\n"}
+,{"stream_name":"stdout","time":12.421703337,"data":" 10  listed_in     7770 non-null   object\n"}
+,{"stream_name":"stdout","time":12.421708836,"data":" 11  description   7770 non-null   object\n"}
+,{"stream_name":"stdout","time":12.421714291,"data":"dtypes: int64(1), object(11)\n"}
+,{"stream_name":"stdout","time":12.42171994,"data":"memory usage: 789.1+ KB\n"}
+,{"stream_name":"stdout","time":20.314937635,"data":"There are 20 types in the Netflix Movie Dataset\n"}
+,{"stream_name":"stderr","time":31.103509067,"data":"/opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2561: FutureWarning: --Exporter.preprocessors=[\"remove_papermill_header.RemovePapermillHeader\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":31.103555968,"data":"  FutureWarning,\n"}
+,{"stream_name":"stderr","time":31.103562257,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":31.605468375,"data":"[NbConvertApp] Writing 2074946 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":32.903544600000004,"data":"/opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2561: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":32.903601649,"data":"  FutureWarning,\n"}
+,{"stream_name":"stderr","time":32.903628069,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":34.14415899,"data":"[NbConvertApp] Support files will be in __results___files/\n"}
+,{"stream_name":"stderr","time":34.144273021,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":34.144438013,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":34.144801125,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":34.144974907,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":34.145241944,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":34.145555524,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":34.145766905,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":34.146010131,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":34.146276647,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":34.146491326,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":34.146926866,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":34.147183822,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":34.147475995,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":34.147752727,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":34.147976969,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":34.14825864,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":34.148489132,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":34.148987893,"data":"[NbConvertApp] Writing 509195 bytes to __results__.html\n"}
+]
